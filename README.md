@@ -1,6 +1,7 @@
 # 🏠 House Price Prediction
 
 This project focuses on predicting house prices based on various features such as location, size, and amenities. The model is trained using machine learning techniques, with the analysis and predictions performed in a Jupyter notebook.
+
 ---
 
 **Dataset source**: https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques
